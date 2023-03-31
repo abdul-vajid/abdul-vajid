@@ -6,12 +6,15 @@ self-taught MERN stack developer
 
 As a self-taught MERN stack developer, I have a relentless drive to continue learning and improving my skills. With a passion for creating innovative solutions, I am constantly seeking out new challenges and opportunities to push the boundaries of what's possible. With a strong foundation in MongoDB, Express, React, and Node.js, I am confident in my ability to develop high-quality, scalable applications that deliver exceptional user experiences. As I continue to expand my knowledge and expertise, I am excited to take on new projects and collaborate with other talented developers to bring cutting-edge ideas to life.
 
-*   🌍  I'm based in Calicut, Kerala, India
-*   🖥️  See my portfolio at [My Portfolio](http://abdul-vajid.github.io/portfolio/)
-*   ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
-*   🚀  I'm currently working on [Fud Hub](http://keralafudhub.shop)
-*   🧠  I'm learning Microservices Docker, Kafka
-*   🤝  I'm open to collaborating on microservices projects using the MERN stack!### Skills 
+* 🌍  I'm based in Calicut, Kerala, India
+* 🖥️  See my portfolio at [My Portfolio](http://abdul-vajid.github.io/portfolio/)
+* ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
+* 🚀  I'm currently working on [Fud Hub](http://keralafudhub.shop)
+* 🧠  I'm learning Microservices Docker, Kafka
+* 🤝  I'm open to collaborating on microservices projects using the MERN stack!
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -36,20 +39,16 @@ As a self-taught MERN stack developer, I have a relentless drive to continue lea
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.behance.com/AbdulvajidM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/abdulvajidm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/abdul-vajid"><img src="https://github-readme-stats.vercel.app/api?username=abdul-vajid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdul-vajid's GitHub stats" /></a><a
-                      href="http://www.github.com/abdul-vajid"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-vajid&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/abdul-vajid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdul-vajid&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.behance.com/AbdulvajidM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdulvajidm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/abdul-vajid"><img src="https://github-readme-stats.vercel.app/api?username=abdul-vajid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdul-vajid's GitHub stats" /></a>
+
+<a href="http://www.github.com/abdul-vajid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-vajid&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/abdul-vajid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdul-vajid&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
