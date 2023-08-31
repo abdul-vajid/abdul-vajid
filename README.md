@@ -9,8 +9,8 @@ As a self-taught MERN stack developer, I have a relentless drive to continue lea
 * 🌍  I'm based in Calicut, Kerala, India
 * 🖥️  See my portfolio at [My Portfolio](http://abdul-vajid.github.io/portfolio/)
 * ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
-* 🚀  I'm currently working on [Fud Hub](http://keralafudhub.shop)
-* 🧠  I'm learning Microservices Docker, Kafka
+* 🚀  I'm currently working on [Open Education](https://github.com/abdul-vajid/open-edu-backend-production)
+* 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on microservices projects using the MERN stack!
 
 ### Skills
