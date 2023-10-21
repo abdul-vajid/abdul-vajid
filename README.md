@@ -1,17 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Vajid M
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Abdul Vajid M
 =====================================================================================================================================
 
-Self-taught MERN stack developer
+Self-taught Full Stack Developer
 --------------------------------
 
-As a self-taught MERN stack developer, I have a relentless drive to continue learning and improving my skills. With a passion for creating innovative solutions, I am constantly seeking out new challenges and opportunities to push the boundaries of what's possible. With a strong foundation in MongoDB, Express, React, and Node.js, I am confident in my ability to develop high-quality, scalable applications that deliver exceptional user experiences. As I continue to expand my knowledge and expertise, I am excited to take on new projects and collaborate with other talented developers to bring cutting-edge ideas to life.
+As a self-taught Full stack developer, I have a relentless drive to continue learning and improving my skills. With a passion for creating innovative solutions, I am constantly seeking out new challenges and opportunities to push the boundaries of what's possible. With a strong foundation in MongoDB, Express, React, and Node.js, I am confident in my ability to develop high-quality, scalable applications that deliver exceptional user experiences. As I continue to expand my knowledge and expertise, I am excited to take on new projects and collaborate with other talented developers to bring cutting-edge ideas to life.
 
 * 🌍  I'm based in Calicut, Kerala, India
 * 🖥️  See my portfolio at [My Portfolio](http://abdul-vajid.github.io/portfolio/)
 * ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
-* 🚀  I'm currently working on [Open Education](https://github.com/abdul-vajid/open-edu-backend-production)
+* 🤝  Full Stack Developer at [KIS Academics](https://au.linkedin.com/company/kis-academics)
 * 🧠  I'm learning Nest.js
-* 🤝  I'm open to collaborating on microservices projects using the MERN stack!
 
 ### Skills
 
@@ -43,7 +42,6 @@ As a self-taught MERN stack developer, I have a relentless drive to continue lea
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdulvajidm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/15485875/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.behance.com/AbdulvajidM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> </p>
-### Badges
 
 <b>My GitHub Stats</b>
 
