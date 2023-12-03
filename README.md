@@ -12,10 +12,6 @@ As a self-taught Full stack developer, I have a relentless drive to continue lea
 * 🤝  Full Stack Developer at [KIS Academics](https://au.linkedin.com/company/kis-academics)
 * 🧠  I'm learning Nest.js
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdulvajidm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/15485875/abdul-vajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.behance.com/AbdulvajidM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> </p>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/abdul-vajid"><img src="https://github-readme-stats.vercel.app/api?username=abdul-vajid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdul-vajid's GitHub stats" /></a>
