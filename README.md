@@ -10,7 +10,7 @@ As a self-taught Full stack developer, I have a relentless drive to continue lea
 * 🖥️  See my portfolio at [My Portfolio](http://abdul-vajid.github.io/portfolio/)
 * ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
 * 🤝  Full Stack Developer at [KIS Academics](https://au.linkedin.com/company/kis-academics)
-* 🧠  I'm learning Nest.js
+* 🧠  I'm learning Spring Boot
 
 <b>My GitHub Stats</b>
 
