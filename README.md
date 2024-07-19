@@ -11,9 +11,3 @@ As a self-taught Full stack developer, I have a relentless drive to continue lea
 * ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
 * 🤝  Full Stack Developer at [KIS Academics](https://au.linkedin.com/company/kis-academics)
 * 🧠  I'm learning React Native 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/abdul-vajid"><img src="https://github-readme-stats.vercel.app/api?username=abdul-vajid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdul-vajid's GitHub stats" /></a>
-
-<a href="http://www.github.com/abdul-vajid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-vajid&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
