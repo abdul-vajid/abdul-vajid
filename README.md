@@ -1,7 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Abdul Vajid M
-=====================================================================================================================================
+👋 Hey, I’m Abdul Vajid M!  
+💻 Full Stack Developer | JavaScript & TypeScript  
+🚀 Building scalable, high-performance apps that (mostly) work  
 
-As a self-taught Full stack developer, I have a relentless drive to continue learning and improving my skills. With a passion for creating innovative solutions, I am constantly seeking out new challenges and opportunities to push the boundaries of what's possible. With a strong foundation in MongoDB, Express, React, and Node.js, I am confident in my ability to develop high-quality, scalable applications that deliver exceptional user experiences. As I continue to expand my knowledge and expertise, I am excited to take on new projects and collaborate with other talented developers to bring cutting-edge ideas to life.
+I write code, break things, fix them, and repeat the cycle until something amazing comes out. If there’s a bug, I’ll find it—or it’ll find me first. Passionate about **clean architecture, performance optimization, and making the web faster.**  
 
-* ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)
-* 🤝  Full Stack Developer at [KIS Academics](https://au.linkedin.com/company/kis-academics)
+When I’m not coding, you’ll find me:  
+☕ Debugging with coffee in one hand and ChatGPT in another  
+🎮 Gaming (because even devs need a break)  
+📈 Exploring business & startup trends  
+
+💌 Let’s chat → [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)  
+👨‍💻 Currently building cool stuff at [KIS Academics](https://au.linkedin.com/company/kis-academics)
