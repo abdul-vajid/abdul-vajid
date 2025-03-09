@@ -6,7 +6,7 @@ I write code, break things, fix them, and repeat the cycle until something amazi
 
 When I’m not coding, you’ll find me:  
 ☕ Debugging with coffee in one hand and ChatGPT in another  
-📈 Exploring business & startup trends
+📈 Exploring business & startup trends  
 🌍 Researching global markets & tech innovations  
 🚀 Brainstorming new SaaS & startup ideas
 
