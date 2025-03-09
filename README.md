@@ -6,8 +6,9 @@ I write code, break things, fix them, and repeat the cycle until something amazi
 
 When I’m not coding, you’ll find me:  
 ☕ Debugging with coffee in one hand and ChatGPT in another  
-🎮 Gaming (because even devs need a break)  
-📈 Exploring business & startup trends  
+📈 Exploring business & startup trends
+🌍 Researching global markets & tech innovations  
+🚀 Brainstorming new SaaS & startup ideas
 
 💌 Let’s chat → [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)  
 👨‍💻 Currently building cool stuff at [KIS Academics](https://au.linkedin.com/company/kis-academics)
