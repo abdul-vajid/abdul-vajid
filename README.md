@@ -1,4 +1,4 @@
-👋 Hey, I’m Abdul Vajid M!  
+👋 Hey, I’m Abdul Vajid M!
 💻 Full Stack Developer | JavaScript & TypeScript  
 🚀 Building scalable, high-performance apps that (mostly) work  
 
