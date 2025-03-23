@@ -10,5 +10,6 @@ When I’m not coding, you’ll find me:
 🌍 Researching global markets & tech innovations  
 🚀 Brainstorming new SaaS & startup ideas
 
+
 💌 Let’s chat → [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)  
 👨‍💻 Currently building cool stuff at [KIS Academics](https://au.linkedin.com/company/kis-academics)
