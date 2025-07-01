@@ -3,9 +3,9 @@
 🚀 Building scalable, high-performance apps that (mostly) work
 
 I write code, break things, fix them, and repeat the cycle until something amazing comes out. If there’s a bug, I’ll find it—or it’ll find me first. Passionate about:
-	•	⚙️ Clean architecture & performance optimization
-	•	🚀 Building fast, user-centric web experiences
-	•	🧠 Turning startup ideas into working prototypes
+1. ⚙️ Clean architecture & performance optimization
+2. 🚀 Building fast, user-centric web experiences
+3. 🧠 Turning startup ideas into working prototypes
 
 When I’m not in the zone, I’m probably:
 ☕ Debugging with coffee in hand
