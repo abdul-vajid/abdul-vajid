@@ -8,9 +8,9 @@ I write code, break things, fix them, and repeat the cycle until something amazi
 3. 🧠 Turning startup ideas into working prototypes
 
 When I’m not in the zone, I’m probably:
-☕ Debugging with coffee in hand
-📊 Exploring SaaS & startup trends
-🌍 Researching global markets & digital opportunities
+1. ☕ Debugging with coffee in hand
+2. 📊 Exploring SaaS & startup trends
+3. 🌍 Researching global markets & digital opportunities
 
 Currently building cool things at an Australian edtech.
 Let’s connect → dev.abdulvajidm@gmail.com
