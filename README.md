@@ -1,15 +1,16 @@
 👋 Hey, I’m Abdul Vajid M!   
-💻 Full Stack Developer | JavaScript & TypeScript  
+💻 Full Stack Developer | JavaScript, TypeScript and Python
 🚀 Building scalable, high-performance apps that (mostly) work
 
-I write code, break things, fix them, and repeat the cycle until something amazing comes out. If there’s a bug, I’ll find it—or it’ll find me first. Passionate about **clean architecture, performance optimization, and making the web faster.**  
+I write code, break things, fix them, and repeat the cycle until something amazing comes out. If there’s a bug, I’ll find it—or it’ll find me first. Passionate about:
+	•	⚙️ Clean architecture & performance optimization
+	•	🚀 Building fast, user-centric web experiences
+	•	🧠 Turning startup ideas into working prototypes
 
-When I’m not coding, you’ll find me:  
-☕ Debugging with coffee in one hand and ChatGPT in another  
-📈 Exploring business & startup trends  
-🌍 Researching global markets & tech innovations  
-🚀 Brainstorming new SaaS & startup ideas
+When I’m not in the zone, I’m probably:
+☕ Debugging with coffee in hand
+📊 Exploring SaaS & startup trends
+🌍 Researching global markets & digital opportunities
 
-
-💌 Let’s chat → [dev.abdulvajidm@gmail.com](mailto:dev.abdulvajidm@gmail.com)  
-👨‍💻 Currently building cool stuff at [KIS Academics](https://au.linkedin.com/company/kis-academics)
+Currently building cool things at an Australian edtech.
+Let’s connect → dev.abdulvajidm@gmail.com
